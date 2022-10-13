@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           <a
             href="https://github.com/MartaCoelho750/react-weather-app"
-            rel="noreferrer"
+            rel=" noopener noreferrer"
             target="_blank"
           >
             Coded By
